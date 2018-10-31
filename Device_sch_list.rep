@@ -1,0 +1,52 @@
+CSV text has been written to file : Device_sch_list.csv
+
+Library Component Count : 45
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+24C01D/02D_8PIN     EEPROM with I2C BUS
+901x_NPN            BJT
+901x_PNP            
+AD623               Instrument Amplifier
+AD8307              LOG Amplifier 90dB DC to 900MHz
+AD9854              DDS_300M
+ADS828              High speed ADC with 10 bitwidth & differential port, 75MSPS max
+ADT4-1WT            IP Transformer
+AMS1117_3.3V        POWER_3.3V
+CR2302 Power Cell   CR2302 Power Cell
+Diode_VD            RF
+Dpy-LED-8-2         Led Segment
+Dpy-LED-8-4         Led Segment
+Dual UNIVERSAL OP   Dual Universal OP-Amplifier
+HC1621B_SSOP_48     LCD Driver
+HT16C21_SOP28       SEG LCD Driver
+INA133              Differential Amplifier
+LCD12864_COG_32P_SCREENLCD12864 COG 32PIN SCREEN
+LCD_COM4_SEG6_NUM3  Segment LCD with 3 number and a symbol
+LCD_COM4_SEG8_NUM4  Segment LCD with 4 Number and 1 Symbol of dots
+LCD_COM4_SEG9_NUM4  SEG LCD with 4 NUM and 1symbol
+LM78xx              Power_device
+LMH6518             VGA_900MHz
+MB1504              
+MFRC522             RFID_IC
+MSP430F21x2_PW      msp430f21x2 with 28 pins
+MSP430G2x01_PW      MSP430G2x01 with 14 Pins
+OSC_CLK             OSC
+PWR2.5              Power
+Res_Pack_4          resistor
+SI230x_NMOS         Power_NMOS
+SI230x_PMOS         Power_PMOS
+STM32F030K6         STM32F030K6
+STM8S103F3P6        STM8S MCU
+SW-PB               SW-PB-4
+TC1-1T              TC1-1T serial 50 ohme
+THS3201_PIN5        THS3201 with 8 pins, High Speed AMP, CFB
+THS3201_PIN8        THS3201 with 8 pins, High Speed AMP, CFB
+THS4503             Differential Amp
+TLV431_3pin         
+TMP112              TMP112 is a low power temperature chip with 0.5 resolution
+TPS5430/31          POWER BULK TPS5430/31
+TPS6122x            Boost DC-DC
+TPS63700            
+UNIVERSAL OP        Universal OP with 8 Pins
